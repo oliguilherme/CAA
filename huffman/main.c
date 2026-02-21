@@ -54,7 +54,7 @@ char* decodificar(unsigned char texto[], No *raiz);
 int main() {
     system("clear");
     
-    unsigned char texto[] = "EU SOU FODA"; //unsigned para resolver problemas como acentuação
+    unsigned char texto[] = "neste trabalho voce vai implementar o codigo de huffman em linguagem c"; //unsigned para resolver problemas como acentuação
     unsigned int tabela_frequencia[TAM];
     Lista lista;
     No *arv;
